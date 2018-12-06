@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Ice cream
 
-You can use the [editor on GitHub](https://github.com/Catluv23/Catluv23.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Ice cream. When you forget to buy ice cream, you get depressed. When you get depressed, you want more ice cream. When you want more ice cream you steal it from a store. When you steal it from a store you eat it quickly. When you eat it quickly, your stomach hurts. When your stomach hurts, you go to the doctor. When you go to the doctor, you get diagnosed with diabetes. When you get diagnosed with diabetes, you go for a sad walk. When you go for a sad walk the police find you. When the police find you they arrest you. When they arrest you, you go to jail. When you go to jail you die of depression.
+Lesson: Don't forget to buy ice cream.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Types
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
